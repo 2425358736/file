@@ -1,6 +1,8 @@
 spring:
   application:
     name: service-two
+  profiles:
+    active: dev,mysql
 eureka:
   client:
     serviceUrl:
