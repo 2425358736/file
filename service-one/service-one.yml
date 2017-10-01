@@ -15,7 +15,7 @@ spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&amp;characterEncoding=UTF-8&amp;tinyInt1isBit=false
     username: liuzhiqiang
-    password: 123456
+    password: lzq199528
     driver-class-name: com.mysql.jdbc.Driver
     type: org.apache.tomcat.jdbc.pool.DataSource
 
